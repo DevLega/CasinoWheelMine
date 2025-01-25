@@ -1,0 +1,6 @@
+name: CasinoWheelMine
+version: '1.0-SNAPSHOT'
+main: me.lega.casino.casinoWheelMine.CasinoWheelMine
+api-version: '1.21'
+
+commands:

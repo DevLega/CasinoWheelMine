@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CasinoWheelMine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CasinoWheelMine_jar</output-path>
+    <root id="archive" name="CasinoWheelMine.jar">
+      <element id="module-output" name="CasinoWheelMine" />
+    </root>
+  </artifact>
+</component>
